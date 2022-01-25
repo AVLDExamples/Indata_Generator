@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<app>
+  <name>Indata Tool</name>
+  <category>FAME</category>
+  <icon_id>ai-workflow-app</icon_id>
+  <scalable_icon>workflow/app.svg</scalable_icon>
+  <help_key></help_key>
+  <hidden>False</hidden>
+  <dependencies>
+    <product_name>FIRE</product_name>
+    <product_name>FIRE M</product_name>
+  </dependencies>
+  <uuid>38060fd22eeb4affb4df72cc4e8da8a1</uuid>
+  <client_tags>
+    <client_tag>FAME</client_tag>
+  </client_tags>
+  <custom_data/>
+  <use_sandbox>True</use_sandbox>
+  <python_exec>avl-standard-python3</python_exec>
+  <libraries/>
+</app>
